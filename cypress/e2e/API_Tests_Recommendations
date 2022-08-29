@@ -1,0 +1,10 @@
+/*
+API tests Recommendations for https://www.saucedemo.com/:
+1. Products:
+Create API test for Inventory Page
+  Verify Item Name, Price, description
+  
+2. Orders:
+  verify that can create order using different test scenarios(two or multiple items on cart, one item on cart)
+  * I am not sure about createing users for testing purposes but we can implment that api test to create users for creating anc verify Orders
+*/
